@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/logo.svg" height="150" width="175" alt="expo camera" />
+  <img src=".github/assets/logo.png" height="150" width="175" alt="expo camera" />
 </p>
 
 <h3 align="center">
